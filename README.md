@@ -1,4 +1,4 @@
-# Understanding Slowly Changing Dimensions (SCDs) in Data Warehousing 🌐
+# Slowly Changing Dimensions (SCDs) in Data Warehousing 🌐
 
 ## **What are SCDs?**  
 Slowly Changing Dimensions (SCDs) are dimensions that change over time, but not frequently. These dimensions require special handling in data warehousing to preserve historical accuracy while maintaining the integrity of the data.
